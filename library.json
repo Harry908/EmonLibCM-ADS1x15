@@ -1,0 +1,17 @@
+{
+  "name": "EmonLibCM-ADS1x15",
+  "keywords": "electricity, energy, monitoring",
+  "description": "Energy Monitoring Continuous Sampling Library",
+  "version": "1.0.0",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "atmelsam"
+  ]
+}
